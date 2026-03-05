@@ -1,0 +1,2 @@
+goose postgres "user=postgres password=postgres dbname=rssagg host=localhost port=5432 sslmode=disable" up
+goose postgres "user=postgres password=postgres dbname=rssagg host=localhost port=5432 sslmode=disable" down
